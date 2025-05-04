@@ -17,5 +17,6 @@ This dashboard helps identify:
 - ☁ Correlations between weather/light conditions and accident severity
 
  ## Dashboard Screenshot
+ <img src="https://github.com/UMA568/-Road-Accident-Analysis-Dashboard/blob/main/Screenshot%202025-05-04%20120317.png">
  
   
